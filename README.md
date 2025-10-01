@@ -54,5 +54,3 @@
 </div>
 
 ------
-Créditos: [32bitsarg](https://github.com/32bitsarg)  
-Última edición: 30/09/2025
